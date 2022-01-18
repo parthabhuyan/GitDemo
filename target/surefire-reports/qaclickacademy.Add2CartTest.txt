@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: qaclickacademy.Add2CartTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.386 s - in qaclickacademy.Add2CartTest
