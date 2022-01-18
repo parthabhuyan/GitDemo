@@ -15,4 +15,14 @@ public class LoginTest {
 	{
 		System.out.println("testPassword");
 	}
+
+	// Adding test case to verify the blank username and    password
+		@Test
+	public static void testBlank()
+	{
+		System.out.println("test blank username and password");
+	}
+
+
+
 }
